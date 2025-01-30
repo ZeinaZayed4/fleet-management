@@ -1,6 +1,4 @@
-# Fleet Management
+# Fleet Management (Bus Booking System)
 
-## Bus Booking System
-
-# ERD Diagram
+### ERD Diagram
 ![ERD Diagram](fleet_management.png)
